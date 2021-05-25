@@ -1,0 +1,8 @@
+[INFO ] 2021-04-30 01:48:11.856 [main] Log4jDemo - Info Msg
+[ERROR] 2021-04-30 01:48:11.873 [main] Log4jDemo - Error
+[FATAL] 2021-04-30 01:48:11.874 [main] Log4jDemo -  Fatal
+[WARN ] 2021-04-30 01:48:11.874 [main] Log4jDemo - Warn
+[INFO ] 2021-04-30 01:51:41.396 [main] Log4jDemo - Info Msg
+[ERROR] 2021-04-30 01:51:41.423 [main] Log4jDemo - Error
+[FATAL] 2021-04-30 01:51:41.424 [main] Log4jDemo -  Fatal
+[WARN ] 2021-04-30 01:51:41.425 [main] Log4jDemo - Warn
